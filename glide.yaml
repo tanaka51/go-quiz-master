@@ -1,2 +1,4 @@
 package: github.com/tanaka51/go-quiz-master
-import: []
+import:
+- package: github.com/gin-gonic/gin
+  version: v1.2
